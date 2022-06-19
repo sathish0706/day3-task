@@ -1,0 +1,25 @@
+{"name":"sathish",
+ "last name":"ram",
+ "D.O.B":"06/07/1999",
+ "isMajor": true,}
+ "Address": [
+    {"door number":101,
+    "street":"north st",
+    "village":"mathur",
+    "taluk":"sirkali",
+    "district":"mayiladuthurai",
+    "pin code":609111,
+    }],
+ "study":[
+        {"college name":"MRK",
+          "course":"diploma",
+          "branch":"mech",
+          "pass out":2017,  
+        }],
+  "work":[
+        {"company name":"hyundai",
+          "designation": "training",
+          "id no":111222,  
+        }]
+     
+    
